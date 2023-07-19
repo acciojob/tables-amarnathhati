@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+#total{
+	text-align:right;
+	font-family: 'Courier New', Courier, monospace;
+	  font-weight: bold;
+	  text-align: end;
+		
+}
